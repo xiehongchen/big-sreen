@@ -52,5 +52,8 @@ defineExpose({
 </script>
 
 <style lang="scss" scoped>
-
+.chart {
+  width: 100%;
+  height: 100%;
+}
 </style>

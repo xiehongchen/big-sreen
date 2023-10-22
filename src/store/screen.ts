@@ -8,7 +8,7 @@ interface SreenState {
 export const useScreenStore = defineStore({
   id: 'screen',
   state: (): SreenState => ({
-    title: 'Pinia',
+    title: '可视化大屏',
     theme: 'light'
   })
 })
